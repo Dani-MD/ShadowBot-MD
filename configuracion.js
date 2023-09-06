@@ -22,7 +22,7 @@ import uploadImage from "./lib/uploadImage.js";
 //cambia los números que sean propietarios
 global.owner = [
 /*╔══════════════════╗*/
-/*║ ❒*/ ["5218442286089", "🔰𝐃𝐈𝐄𝐆𝐎-𝐂𝐑𝐄𝐀𝐃𝐎𝐑🔰", true],
+/*║ ❒*/ ["51931841922", "🔰𝐒𝐂𝐈𝐒𝐒𝐎𝐑-𝐂𝐑𝐄𝐀𝐃𝐎𝐑🔰", true],
 /*║ ❒*/ ["51993138466"],
 /*║ ❒*/ ["573184314110"],
 /*║ ❒*/ ["50246028932"],
@@ -79,8 +79,8 @@ global.moment = moment;
 /*-----------------------*/
 
 /* ______________________________________________ */
-global.creadorname = "𝐃𝐈𝐄𝐆𝐎-𝐎𝐅𝐂";
-global.creatorname = "𝐃𝐈𝐄𝐆𝐎-𝐎𝐅𝐂";
+global.creadorname = "𝐒𝐂𝐈𝐒𝐒𝐎𝐑-𝐎𝐅𝐂";
+global.creatorname = "𝐒𝐂𝐈𝐒𝐒𝐎𝐑-𝐎𝐅𝐂";
 global.library = "BAILEYS-MD";
 global.vs = "V10";
 global.version = vs;
@@ -94,13 +94,13 @@ global.mes = d.toLocaleDateString("es", {month: "long"});
 global.año = d.toLocaleDateString("es", {year: "numeric"});
 global.tiempo = d.toLocaleString("en-US", {hour: "numeric", minute: "numeric", second: "numeric", hour12: true});
 //------------- Sticker WM -----------
-global.packname = `𝐃𝐈𝐄𝐆𝐎-𝐎𝐅𝐂`;
+global.packname = `𝐒𝐂𝐈𝐒𝐒𝐎𝐑-𝐎𝐅𝐂`;
 global.author = `© 𝐓𝐡𝐞 𝐒𝐡𝐚𝐝𝐨𝐰 𝐁𝐫𝐨𝐜𝐤𝐞𝐫𝐬 - 𝐁𝐨𝐭`;
 //_______________
-global.wm = "𝗦𝗵𝗮𝗱𝗼𝘄-𝗕𝗼𝘁 | 𝐃𝐈𝐄𝐆𝐎-𝐎𝐅𝐂";
+global.wm = "𝗦𝗵𝗮𝗱𝗼𝘄-𝗕𝗼𝘁 | 𝐒𝐂𝐒𝐒𝐎𝐑-𝐎𝐅𝐂";
 global.db3t = `© 𝐓𝐡𝐞 𝐒𝐡𝐚𝐝𝐨𝐰 𝐁𝐫𝐨𝐜𝐤𝐞𝐫𝐬 - 𝐁𝐨𝐭 `;
 global.wm3 = db3t;
-global.codex = `Diego-Ofc`;
+global.codex = `Scissor-Ofc`;
 global.igfg = "𝐒𝐡𝐚𝐝𝐨𝐰 𝐁𝐫𝐨𝐜𝐤𝐞𝐫𝐬 - 𝐁𝐨𝐭";
 global.wait = "*[❕] CARGANDO POR FAVOR ESPERA...*";
 //-------------------
